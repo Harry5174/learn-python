@@ -1,0 +1,10 @@
+[project]
+name = "learn-python"
+version = "0.1.0"
+description = "Comprehensive Python course repo covering basics to advanced topics: data structures, OOP, decorators, generators, web scraping, error handling, and projects. Perfect for beginners aiming to master Python step by step."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.135.1",
+    "uvicorn>=0.41.0",
+]
