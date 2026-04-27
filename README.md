@@ -41,7 +41,15 @@ This repository documents the completed coursework for **The Complete Python Boo
 │   ├── 02-python-statements/
 │   ├── 03-methods-functions/
 │   ├── 04-milestone/
-│   └── 05-object-oriented-programming/
+│   ├── 05-object-oriented-programming/
+│   ├── 06-errors-exception-handling/
+│   ├── 07-milestone-II/
+│   ├── 08-decorators/
+│   ├── 09-generators/
+│   ├── 10-advanced-python-modules/
+│   ├── 11-working-with-images/
+│   ├── 12-emails-with-python/
+│   └── 13-advanced-python-objects-and-data-structures/
 ├── leetcode/
 └── data-structures-algorithms/
     ├── linked-lists/
